@@ -1,0 +1,15 @@
+# Kotlin + Gradle + Spring Boot 기본
+.gradle/
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# 로그
+*.log
+
+# WebDriver
+chromedriver*
+geckodriver*
